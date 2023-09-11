@@ -1,0 +1,10 @@
+# R code
+
+This folder contains the R code to replicate and reproduce the spatio-temporal multivariate models and the results described in the paper.
+
+The [Data](https://github.com/spatialstatisticsupna/Shared_interactions/tree/main/R/Data) folder contains the data for pancreatic cancer and leukaemia, as well as the cartography for the region under study. Specifically, the cartography and data correspond to three of the four nations that constitute the United Kingdom: England, Wales, and Scotland. These nations collectively make up the entire island of Great Britain, including small adjacent islands. Although the three nations belong to the same country, the national health system of each operates independently, thus the data have been collected separately and merged into a single database. For more information see [README](https://github.com/spatialstatisticsupna/Shared_interactions/blob/main).
+
+The [All_Models](https://github.com/spatialstatisticsupna/Shared_interactions/tree/main/R/All_Models) folder encompasses the code necessary to implement all the models described in the paper "Multivariate models with time-varying shared interactions to analyze the spatio-temporal pattern of rare cancers". The models are divided into two folders, separating the spatio-temporal multivariate models with [independent interactions](https://github.com/spatialstatisticsupna/Shared_interactions/tree/main/R/All_Models/Multivariate_Models_indep) from those with the new [time-varying shared interactions](https://github.com/spatialstatisticsupna/Shared_interactions/tree/main/R/All_Models/Multivariate_Models_shared).
+
+
+The folders [Results_Pancreatic](https://github.com/spatialstatisticsupna/Shared_interactions/tree/main/R/Results_Pancreatic) and [Results_Leukaemia](https://github.com/spatialstatisticsupna/Shared_interactions/tree/main/R/Results_Leukaemia) contain the code to implement the selected model and the corresponding results obtained for pancreatic cancer and leukaemia, respectively, as described in paper "Multivariate Bayesian models with flexible shared interactions for analyzing spatio-temporal patterns of rare cancers". 
