@@ -7,8 +7,6 @@ analyzing spatio-temporal patterns of rare cancers".
 
 1.  [Note](#Note)
 2.  [R code](#Rcode)
-  1. [Germany data](#Germany)
-  2. [Spanish Simulation Study](#Spain)
 3.  [Acknowledgements](#Acknowledgements)
 4.  [References](#Ref)
 
