@@ -33,4 +33,4 @@ This work has been supported by Project PID2020-113125RB-I00/MCIN/AEI/10.13039/5
 # References <a name="Ref"/>
 
 Retegui, R., Etxeberria, J.  and Ugarte, M.D (2024). Multivariate Bayesian models with flexible shared interactions for analyzing spatio-temporal
-patterns of rare cancers. _Submitted_. https://arxiv.org/abs/2403.10440.
+patterns of rare cancers. _Environmental and Ecological Statistics_. https://doi.org/10.1007/s10651-024-00630-w.
